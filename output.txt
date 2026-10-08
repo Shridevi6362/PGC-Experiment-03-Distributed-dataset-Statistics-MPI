@@ -1,0 +1,8 @@
+Distributed Dataset Statistics Using MPI
+-----------------------------------------
+Dataset: 10 20 30 40 50 60 70 80
+Number of MPI processes: 4
+Sum     : 360
+Average : 45.00
+Maximum : 80
+Minimum : 10
